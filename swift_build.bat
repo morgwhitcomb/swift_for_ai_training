@@ -1,0 +1,1 @@
+swiftc -emit-executable -o crash_course.exe .\crash_course.swift
